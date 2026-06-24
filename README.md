@@ -1,7 +1,10 @@
 # 👋 Hi there, I'm Vun Khemra
 
 💻 Web Developer | Frontend & Backend Developer
-📍 Phnom Penh , Ruessy keo
+
+🌐 Passionate about building modern web applications
+
+📍 Phnom Penh, Ruessy Keo​
 
 ## 🌐 Frontend Skills
 ## 🌐 Frontend Skills
