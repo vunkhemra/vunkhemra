@@ -6,19 +6,21 @@
 
 📍 Phnom Penh, Ruessy Keo​
 
-## 🌐 Frontend Skills
+## 🚀 Skills & Technologies
 
+### 🌐 Frontend
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react)](https://skillicons.dev)
-## ⚙️ Backend Skills
+
+### ⚙️ Backend
 [![My Skills](https://skillicons.dev/icons?i=php,laravel,django)](https://skillicons.dev)
 
-## 🗄️ Database Skills
+### 🗄️ Database
 [![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
 
-## 💻 Programming Languages
+### 💻 Programming Languages
 [![My Skills](https://skillicons.dev/icons?i=c,cpp)](https://skillicons.dev)
 
-## 🛠️ Tools & Platforms
+### 🛠️ Tools & Platforms
 [![My Skills](https://skillicons.dev/icons?i=git,github,vscode,figma)](https://skillicons.dev)
 ## 📬 Contact Me
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/vunkhemra)
