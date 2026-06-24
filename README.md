@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Vun Khemra
+# 👋 Hi , I'm Vun Khemra
 
 💻  Frontend & Backend Developer
 
@@ -9,7 +9,7 @@
 ## 🚀 Skills & Technologies
 
 ### 🌐 Frontend
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react)](https://skillicons.dev)
+[![My Skills](i=html,css,js,bootstrap,tailwind,react)](https://skillicons.dev)
 
 ### ⚙️ Backend
 [![My Skills](https://skillicons.dev/icons?i=php,laravel,django)](https://skillicons.dev)
